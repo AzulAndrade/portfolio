@@ -10362,4 +10362,12 @@ figure figcaption {
   position: -webkit-sticky;
   top: 0;
 }
+.language-flag-container{
+  display: flex;
+  max-width: 150px !important;
+}
+.language-flag{
+  border-radius: 10px;
+  margin: auto;
+}
 /*# sourceMappingURL=style.css.map */
